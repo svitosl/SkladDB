@@ -1,0 +1,46 @@
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\bin\Debug\SkladDB.exe.config
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\bin\Debug\SkladDB.exe
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\bin\Debug\SkladDB.pdb
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Form1.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Properties.Resources.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.csproj.GenerateResource.cache
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.csproj.CoreCompileInputs.cache
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.exe
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.pdb
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Workers.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Dismiss.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Organizations.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Journal.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Ext_fun.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_act.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_act_items.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_edit.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_edit_items.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.csprojAssemblyReference.cache
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_act_items.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_act.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_edit.resources
+C:\Users\Svitoslav\source\repos\SkladDB\SkladDB\obj\Debug\SkladDB.Ext_fun_wrk.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\bin\Debug\SkladDB.exe.config
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\bin\Debug\SkladDB.exe
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\bin\Debug\SkladDB.pdb
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.csprojAssemblyReference.cache
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Dismiss.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Ext_fun_wrk.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Ext_fun.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Form1.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_edit.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_act.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Out_inv_act_items.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_edit_items.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_edit.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_act.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.In_inv_act_items.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.journal.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Organizations.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Properties.Resources.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.Workers.resources
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.csproj.GenerateResource.cache
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.csproj.CoreCompileInputs.cache
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.exe
+F:\Мои файлы\Дела\Институты\Базы данных\SkladDB\SkladDB\obj\Debug\SkladDB.pdb
