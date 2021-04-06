@@ -5,8 +5,10 @@
 
 *Окно списка сотрудников*
 ![alt text](https://github.com/svitosl/screenshots/blob/master/skladdb_main_wnd.png "Окно списка сотрудников")
+
 *Окно учёта текущего остатка товаров на складе*
 ![alt text](https://github.com/svitosl/screenshots/blob/master/skladdb_items_wnd.png "Окно учёта текущего остатка товаров на складе")
+
 *Окно журнала действий*
 ![alt text](https://github.com/svitosl/screenshots/blob/master/skladdb_journal_wnd.png "Окно журнала действий")
 
@@ -36,15 +38,23 @@
 ## Установка системы
 
 1. Установить **IDE Microsoft Visual Studio Community 2017** и компонент **Visual C#** в **Visual Studio Installer**
+
 2. Установить **Microsoft SQL Server 2017** и **SQL Server Management Studio (SSMS)**
+
 3. Запустить **SSMS**, соединиться с СУБД.
+
   3.1 Создать новую базу данных с именем **SkladDB**
+  
   3.2 ПКМ по вновь созданной БД **SkladDB** -> **«Задачи» (Tasks)** —> **«Восстановить» (Restore)** —> **«База данных…» (Database…)**
+  
   3.2 Откроется окно **«Восстановление базы данных» (Restore Database)**. В качестве источника требуется указать **«С устройства» (From device)** и выбрать файл резервной копии - файл **SkladDB.bak**
+  
   3.3 Установить флаг **«Восстановить» (Restore)** напротив выбранной резервной копии
+  
   3.4 Перейти на вкладку **«Параметры» (Options)** и установить флаг **«Перезаписывать существующую базу данных» (WITH REPLACE)**
+  
   3.5 Нажать **«ОК»** и дождаться сообщения об успешном восстановлении базы данных
+  
 4. Запустить проект - файл **SkladDB.sln**
-5. В строках:
-```connection = new SqlConnection(@"Data Source=Data;Initial Catalog=Sklad;Integrated Security=True")```
-Изменить **Data** на имя сервера СУБД MS SQL
+
+5. В строках: ```connection = new SqlConnection(@"Data Source=Data;Initial Catalog=Sklad;Integrated Security=True")``` изменить **Data** на имя сервера СУБД MS SQL
